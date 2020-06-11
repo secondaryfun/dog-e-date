@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Spot",
+    "parent": "Sue Smith",
+    "breed": "Pit Bull",
+    "info": "Super Friendly",
+    "age": 3,
+    "size": "M"
+  },
+  {
+    "name": "Fido",
+    "parent": "John Smith",
+    "breed": "Brown Lab",
+    "info": "Lazy",
+    "age": 10,
+    "size": "M"
+  },
+  {
+    "name": "Rex",
+    "parent": "Sally May",
+    "breed": "Pug",
+    "info": "Hyperactive",
+    "age": 2,
+    "size": "S"
+  }
+]
